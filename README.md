@@ -17,7 +17,11 @@
 
 ## Working Demo
 
-Explore the chatbot in action here: [Working demo](#)
+Explore the chatbot in action here: [![MindMate Working Demo](https://github.com/aviralgarg05/MindMate/blob/main/assets/mindmate.png)](https://youtu.be/EU-Gxyz60Y8)
+Click the image above to access the video link
+
+## Structure
+![System Architecture](https://github.com/aviralgarg05/MindMate/blob/main/assets/block.png)
 
 ## References
 
