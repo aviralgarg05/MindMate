@@ -30,7 +30,4 @@ Click the image above to access the video link
 - [Streamlit Documentation](https://docs.streamlit.io/)
 - [Google Maps API Documentation](https://developers.google.com/maps/documentation)
 - [Pinecone Documentation](https://docs.pinecone.io/docs/overview)
-
----
-
-Feel free to adjust the links or any other details as needed!
+  
